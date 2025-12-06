@@ -1,0 +1,11 @@
+{
+  "supabase": {
+    "deployEdgeFunctions": false,
+    "skipFunctionsDeployment": true
+  },
+  "deployment": {
+    "ignore": [
+      "supabase/functions/**"
+    ]
+  }
+}

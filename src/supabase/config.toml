@@ -1,0 +1,19 @@
+# Supabase Configuration
+# This file is used to configure Supabase project settings
+
+[api]
+# API configuration
+enabled = true
+
+[db]
+# Database configuration
+pooler_enabled = true
+
+[functions]
+# Edge Functions configuration
+# Disable edge functions deployment to avoid 403 errors
+enabled = false
+
+[auth]
+# Authentication configuration
+enabled = true
