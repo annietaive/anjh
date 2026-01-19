@@ -53,7 +53,7 @@ class EnvironmentManager {
 
     // Method 3: Hardcoded fallback for production use
     this.config = {
-      VITE_GEMINI_API_KEY: 'AIzaSyBXPnwA-gB2f6AenCznoUnCTI4ojRGOU2s',
+      VITE_GEMINI_API_KEY: 'AIzaSyCqTz4j_bQc4e4CIi54njTbp0qbB1fncZE',
       VITE_SERVER_URL: '',
       VITE_SUPABASE_URL: '',
       VITE_SUPABASE_ANON_KEY: '',
