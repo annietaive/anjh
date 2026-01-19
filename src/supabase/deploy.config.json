@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "enabled": false,
+    "deploy": false
+  },
+  "migrations": {
+    "enabled": true
+  },
+  "api": {
+    "enabled": true
+  }
+}

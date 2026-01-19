@@ -1,0 +1,11 @@
+{
+  // Disable all deployments
+  "deploy": {
+    "project": "",
+    "exclude": ["**/*"],
+    "include": []
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx"
+  }
+}
